@@ -1,3 +1,4 @@
+<img align = "center" width = "100%" src = "https://github.com/ashishparate66/ashishparate66/blob/main/White%20Blue%20Patterns%20Business%20Email%20Header.png">
 <h1 align="center">Hi 👋, I'm Ashish Parate</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
