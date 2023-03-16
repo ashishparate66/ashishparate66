@@ -6,6 +6,7 @@
 
 - 📫 How to reach me **ashishparate66@gmail.com**
 
+- 📫 My Portfolio **[ashishparate66.github.io](https://ashishparate66.github.io/)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ashishparate66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ashishparate66" height="30" width="40" /></a>
