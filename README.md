@@ -9,7 +9,7 @@
 - 📫 My Portfolio **[ashishparate66.github.io](https://ashishparate66.github.io/)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ashish-parate-890579129/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Linkdln" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/ashish-parate-890579129/" target="_blank" rel="noreferrer"> <img src="https://fontawesome.com/icons/linkedin-in?f=brands&s=solid" alt="Linkdln" width="40" height="40"/> </a>
 
 
 </p>
