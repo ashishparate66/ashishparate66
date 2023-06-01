@@ -9,9 +9,7 @@
 - 📫 My Portfolio **[ashishparate66.github.io](https://ashishparate66.github.io/)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ashish-parate-890579129/" target="_blank" rel="noreferrer"> <img src="![linkedin-in](https://github.com/ashishparate66/Bath_And_Body_Works_Clone/assets/111574376/6c33499e-230b-4992-bb04-02e68551a81c)" alt="Linkdln" width="40" height="40"/> </a>
-
-
+<a href="https://www.linkedin.com/in/ashish-parate-890579129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-parate" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
