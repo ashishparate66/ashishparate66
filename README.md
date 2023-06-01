@@ -19,10 +19,10 @@
 <p><img id="github-streak-stats"src="https://github-readme-streak-stats.herokuapp.com/?user=ashishparate66&" alt="ashishparate66" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishparate66&show_icons=true&locale=en&layout=compact" alt="ashishparate66" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishparate66&show_icons=true&locale=en" alt="ashishparate66" /></p>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
  </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishparate66&show_icons=true&locale=en" alt="ashishparate66" /></p>
 
 
